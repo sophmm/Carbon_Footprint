@@ -1,4 +1,4 @@
-# CO2_emissions
+# How can you reduce your UK Carbon footprint? 
 
 ### Installation 
 The code uses the Anaconda distribution of Python 3.8.8. 
