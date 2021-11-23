@@ -13,6 +13,8 @@ This code performs exploratory data analysis and some simple machine learning te
 2.	Where do these products come from globally?
 3.	Is there a change over time in where products come from overall and for individual products?
 
+A corresponding blog post can be found here: https://medium.com/@sophia.m.moreton/how-can-you-reduce-the-uk-carbon-footprint-after-cop-26-4d5d392f46c0
+
 ### File Descriptions 
 The analysis is presented as a Jupyter notebook with the freely available data files sourced from https://www.gov.uk/government/statistics/uks-carbon-footprint.
 
